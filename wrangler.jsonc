@@ -143,7 +143,7 @@
         "ALLOWED_EMAIL": "azemchap@gmail.com",
         "DISPATCH_NAMESPACE": "vibesdk-default-namespace",
         "CLOUDFLARE_AI_GATEWAY": "vibesdk-gateway",
-        "MAX_SANDBOX_INSTANCES": "10",
+        "MAX_SANDBOX_INSTANCES": "3",
         "SANDBOX_INSTANCE_TYPE": "standard"
     },
 	"workers_dev": false,
